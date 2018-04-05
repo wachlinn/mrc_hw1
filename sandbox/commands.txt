@@ -1,0 +1,10 @@
+noah@kala:~$ mkdir sandbox
+noah@kala:~/sandbox$ gedit commands.txt
+noah@kala:~/sandbox$ mkdir dir1
+noah@kala:~/sandbox$ mkdir dir2
+noah@kala:~/sandbox$ cd dir1
+noah@kala:~/sandbox/dir1$ gedit file1.txt
+noah@kala:~/sandbox/dir1$ cd ..
+noah@kala:~/sandbox$ cd dir2/
+noah@kala:~/sandbox/dir2$ gedit file2.txt
+

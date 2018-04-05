@@ -1,0 +1,5 @@
+noah@kala:~$ cp -R sandbox playpen
+noah@kala:~$ cd playpen/
+noah@kala:~/playpen$ mv commands.txt play.txt
+noah@kala:~/playpen$ mv dir1 folder1
+noah@kala:~/playpen$ mv dir2 folder2
